@@ -1,0 +1,21 @@
+---
+title: "My awesome website"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+    theme: cerulean
+---
+
+# This is Britney's awesome website
+
+![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+#Let's add some links
+
+I often use [google] (google.com) to do data  science.
+
+
+## let's add an image
+![](Unknown.jpeg)   #this jpg needs to exist in the repository folder
+
